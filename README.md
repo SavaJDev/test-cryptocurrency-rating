@@ -1,4 +1,4 @@
-# test-task-cryptocurrency-rating
+# test-cryptocurrency-rating
 
 ## Project setup
 ```
